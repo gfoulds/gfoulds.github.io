@@ -1,5 +1,6 @@
 body
 {
+	max-width: 920px;
 	margin-top: 2%;
 	margin-left: 20%;
 	margin-right: 20%;
@@ -7,6 +8,7 @@ body
 
 #wrapper
 {
+	
 	position: relative;
 	width: 100%;
 	margin-left: auto;
@@ -18,7 +20,7 @@ body
 #header_main
 {
 	text-align: center;
-	font-size: 5em;
+	font-size: 4.5em;
 	font-family: Helvetica;
 }
 
