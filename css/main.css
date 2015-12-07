@@ -23,6 +23,8 @@
 
 #header_welcome_message
 {
+  text-align: left;
+  padding-left: 50px;
   font-size: 1em;
 	color: gray;
 	font-family: 'Satisfy', cursive;
