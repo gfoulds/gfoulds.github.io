@@ -1,3 +1,5 @@
+@import url('http://fonts.googleapis.com/css?family=Satisfy');
+
 #site_wrapper
 {
   margin-left:auto;
@@ -21,10 +23,10 @@
 
 #header_welcome_message
 {
-	padding-left: 16%;
-	font-size: 1em;
+  font-size: 1em;
 	color: gray;
-	font-family: Helvetica;
+	font-family: 'Satisfy', cursive;
+  font-size: 20px;
 }
 
 #header_subheading
@@ -32,5 +34,6 @@
 	text-align: center;
 	font-size: 1em;
 	color: gray;
-	font-family: Helvetica;
+	font-family: 'Satisfy', cursive;
+  font-size: 20px;
 }
